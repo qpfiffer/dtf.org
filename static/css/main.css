@@ -1,0 +1,63 @@
+/* vim: set ts=4 sw=4 noet : */
+html {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+code {
+	white-space: pre-wrap;
+}
+a {
+	text-decoration: none;
+	color: #EF7C7C;
+}
+a:hover {
+	color: #8EA4F9;
+}
+#blog_title {
+	font-size: 36px;
+	margin-bottom: 0.5em;
+}
+.subtitle {
+	color: #888;
+	margin-bottom: 6em;
+	font-size: 14px;
+}
+.author_name {
+	font-size: 14px;
+	color: #AAA;
+}
+.blog_posts ul {
+	padding-left: 0px;
+}
+.blog_posts ul li {
+	list-style-type: none;
+}
+#side_nav {
+	display: inline-block;
+	width: 300px;
+	height: 100%;
+	color: #454545;
+	font-size: 18px;
+	border-right: solid 1px #efefef;
+}
+#side_nav li {
+	list-style-type: none;
+	text-align: right;
+	padding-right: 2em;
+	padding-bottom: 1em;
+}
+#side_nav img {
+	width: 80%;
+	padding: 1em;
+}
+#main_container {
+	display: block;
+	max-width: 960px;
+	margin: 0 auto;
+}
+#content {
+	display: inline-block;
+}
+#footer {
+	font-size: 14px;
+	color: #888;
+}
